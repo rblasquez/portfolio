@@ -1,5 +1,5 @@
 import HelloWorld from '@/components/HelloWorld.vue';
-import footer from '@/components/footer/footer.vue';
+import footer from '@/components/Footer/Footer.vue';
 
 export default {
   name: 'home',
