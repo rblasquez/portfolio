@@ -4,6 +4,6 @@
     </footer>
 </template>
 
-<script src="./_footer.scss"></script>
+<script src="./_Footer.js"></script>
 
-<style src="./_footer.scss"></style>
+<link scoped src="./_Footer.scss" rel="stylesheet"/>

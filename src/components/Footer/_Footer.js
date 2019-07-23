@@ -1,5 +1,5 @@
 export default {
-  name: 'HelloWorld',
+  name: 'Footer',
   props: {
   },
 };
